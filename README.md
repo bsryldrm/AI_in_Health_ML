@@ -18,4 +18,7 @@ veri analizi ve hastalık tespiti konularında çözümler sunmayı hedefler.
 🧬 <a href="https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?resource=download" target="_blank">Diabetes Detection</a>  
 *(Pima Indians Diabetes Database)*
 
+
+❤️ <a href="https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data" target="_blank">Heart Disease Detection</a>  
+*(UCI Heart Disease Data)*
 </div>
